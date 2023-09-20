@@ -1,14 +1,31 @@
-👋 Hi there! I'm @Kuhjuice.
+### Hi, I'm Bo 👋
 
-👀 I have a passion for Biotechnology, Machine Learning, and IT Security.
+🌟 Welcome to my GitHub corner! I go by the name [@Kuhjuice](https://github.com/Kuhjuice) here.
 
-🌱 Currently, I'm diving deep into the world of machine learning techniques and exploring the fundamentals of electrotechnology. (I'm also secretly working on some exciting PCB projects, but shhh, that's our little secret 😉).
+🔍 My Interests:
+- 🧬 I'm deeply fascinated by the world of Biotechnology. (Completing my M.Sc atm)
+- 🤖 Machine Learning is my playground, where I constantly explore and learn.
+- 🔒 Ensuring IT Security is a challenge I embrace with enthusiasm.
 
-💞️ I'm eager to collaborate on LoRa hardware projects and applying machine learning to datasets for specific and innovative projects.
+📚 Currently Learning:
+- 🤓 Expanding my knowledge in advanced Machine Learning techniques.
+- ⚡ Delving into the intricacies of Electrotechnical fundamentals (and maybe working on a few exciting PCB projects 🤫).
+- 🕵️‍♂️ Mastering the art of Penetration Testing.
 
-📫 You can reach me via email at "bo@blackscript.de".
+🔍 Seeking Opportunities:
+- 🎓 I'm currently actively searching for a Master's thesis opportunity in Biotech automation or Applied IT within the medical biotech field.
+
+🤝 Collaboration Interests:
+- 📡 I'm eager to collaborate on LoRa hardware projects, exploring the exciting possibilities of long-range communication.
+- 🧠 Applying the power of Machine Learning to diverse datasets for innovative and impactful projects.
+
+📫 Let's Connect:
+- Feel free to reach out to me via email at [bo@blackscript.de](mailto:bo@blackscript.de).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/bpbk/).
+
+🚀 Explore My Work:
+- Check out my repositories below, and let's create something amazing together!
 
 <!---
 Kuhjuice/Kuhjuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Feel free to explore my repositories, and let's connect to create some amazing projects together!
 --->
