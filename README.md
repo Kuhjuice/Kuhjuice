@@ -20,7 +20,7 @@
 - 🧠 Applying the power of Machine Learning to diverse datasets for innovative and impactful projects.
 
 📫 Let's Connect:
-- Feel free to reach out to me via email at [bo@blackscript.de](mailto:bo@blackscript.de).
+- Feel free to reach out to me via email at [kern@blackscript.de](mailto:kern@blackscript.de).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/bpbk/).
 
 🚀 Explore My Work:
